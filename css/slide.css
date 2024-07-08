@@ -27,7 +27,7 @@ html, body {
 
   .slick-prev:before,
   .slick-next:before {
-    color: black;
+    color:#c1d6bc;
   }
 
 
@@ -35,11 +35,11 @@ html, body {
     transition: all ease-in-out .3s;
     opacity: 1;
   }
-  
+/*   
   .slick-active {
     opacity: .5;
   }
 
   .slick-current {
     opacity: 1;
-  }
+  } */
