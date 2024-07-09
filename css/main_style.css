@@ -99,7 +99,7 @@ h2 {
 .gnb>li>a {
     display: block;
     padding: 5px 10px;
-    margin: 0 10px;
+    margin: 0 30px;
 }
 
 .submenu {
@@ -258,9 +258,15 @@ h2 {
 
 }
 
+.more{
+    text-align: center;
+    text-decoration: underline;
+    color: #bbb;
+    font-size: 15px;
+}
 
 #cont_limitend {
-    background: url(../img/main/content/con3/limited_bg.jpg) no-repeat center;
+    background: url(/img/main/content/con3/limited_bg.jpg) no-repeat center;
     height: 915px;
 }
 
