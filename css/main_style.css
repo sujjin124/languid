@@ -184,7 +184,9 @@ h2 {
     z-index: 99;
     /* opacity: 70%; */
 }
-
+#container{
+    overflow: hidden;
+}
 #content {
     width: 1320px;
     margin: 0 auto;
