@@ -72,7 +72,7 @@ body {
 }
 
 #header {
-    width: 1400px;
+    width: 1320px;
     margin: 0 auto;
     height: 80px;
     display: flex;
@@ -113,7 +113,7 @@ h2 {
 }
 
 .inner_submenu {
-    width: 1400px;
+    width: 1320px;
     margin: 0 auto;
     display: flex;
     justify-content: flex-start;
@@ -188,7 +188,7 @@ h2 {
     overflow: hidden;
 }
 #content {
-    width: 1400px;
+    width: 1320px;
     margin: 0 auto;
 
 }
@@ -227,7 +227,7 @@ h2 {
 }
 
 #slide {
-    width:1400px;
+    width: 1320px;
     margin: 0 auto;
     padding: 60px 0;
 }
@@ -271,7 +271,7 @@ h2 {
 }
 
 .lim_box {
-    width: 1400px;
+    width: 1320px;
     margin: 0 auto;
     display: flex;
     position: relative;
@@ -358,13 +358,13 @@ h2 {
 }
 
 #con_end {
-    width: 1400px;
+    width: 1320px;
     margin: 0 auto;
 }
 
 .end_con {
     display: flex;
-    justify-content: space-between;
+    justify-content:center;
 }
 
 .end_con li {
@@ -409,7 +409,7 @@ h2 {
 }
 
 .footer_box {
-    width: 1400px;
+    width: 1320px;
     margin: 0 auto;
 }
 
