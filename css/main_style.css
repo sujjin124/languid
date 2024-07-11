@@ -170,7 +170,7 @@ h2 {
 }
 
 #banner_main {
-    background: url(/img/main/main_banner/main_banner1.jpg) no-repeat center;
+    background: url(/..img/main/main_banner/main_banner1.jpg) no-repeat center;
     height: 805px;
     display: flex;
     justify-content: center;
@@ -266,9 +266,10 @@ h2 {
 }
 
 #cont_limitend {
-    background: url(/img/main/content/con3/limited_bg.jpg) no-repeat center;
+    background: url(../img/main/content/con3/limited_bg.jpg) no-repeat center;
     height: 915px;
 }
+
 
 .lim_box {
     width: 1320px;
