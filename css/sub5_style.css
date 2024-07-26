@@ -225,13 +225,12 @@ h3 {
     line-height: normal;
 }
 
-.lnb_box2 {
-    display: flex;
-    justify-content: space-between;
-    padding-top: 50px;
-}
-
-.icon a img {
-    padding: 5px;
-
-}
+.icon img{
+    padding: 0 10px 0 0;
+    }
+    .lnb_box2 {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 70px;
+    }
+    

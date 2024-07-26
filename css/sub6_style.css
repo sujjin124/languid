@@ -232,7 +232,7 @@ h3 {
 
 #footer {
     background-color: #C7DCC1;
-    height: 400px;
+    height: 430px;
 }
 
 .footer_box {
@@ -259,17 +259,12 @@ h3 {
     display: block;
 }
 
-.time {
-    line-height: normal;
+.icon img{
+padding: 0 10px 0 0;
 }
-
 .lnb_box2 {
     display: flex;
     justify-content: space-between;
-    padding-top: 50px;
+    padding-top: 70px;
 }
 
-.icon a img {
-    padding: 5px;
-
-}

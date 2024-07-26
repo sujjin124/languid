@@ -432,17 +432,12 @@ h2 {
     display: block;
 }
 
-.time {
-    line-height: normal;
-}
+.icon img{
+    padding: 0 10px 0 0;
+    }
+    .lnb_box2 {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 70px;
+    }
 
-.lnb_box2 {
-    display: flex;
-    justify-content: space-between;
-    padding-top: 50px;
-}
-
-.icon a img {
-    padding: 5px;
-
-}
